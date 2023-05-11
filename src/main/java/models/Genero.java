@@ -7,5 +7,7 @@ import javax.persistence.Id;
 @Table(name = "genero")
 
 public class Genero{
+
+    
     
 }
